@@ -1,0 +1,3 @@
+azure-ai-ml
+azureml-core
+streamlit
