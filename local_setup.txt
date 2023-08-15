@@ -1,0 +1,4 @@
+python -m venv venv
+source venv/bin/activate
+& C:\Users\banide\gitrepos\personal_rag\venv\Scripts\Activate.ps1
+pip install -r requirements.txt
